@@ -11,5 +11,5 @@ func Isnegative(nbr int) {
 }
 
 func main() {
-	Isnegative()
+	Isnegative(4)
 }
